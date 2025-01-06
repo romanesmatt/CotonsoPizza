@@ -34,3 +34,4 @@
 /Users/mattlawrenceromanespersonal/ContosoPizza/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/mattlawrenceromanespersonal/ContosoPizza/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/mattlawrenceromanespersonal/ContosoPizza/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mattlawrenceromanespersonal/ContosoPizza/obj/Debug/net9.0/ContosoPizza.sourcelink.json
